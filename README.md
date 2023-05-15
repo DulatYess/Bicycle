@@ -1,4 +1,4 @@
-# [Start Bootstrap - Landing Page](https://dulatyess.github.io/Bicycle/)
+# Bicycle Landing Page
 
 ## Preview
 
