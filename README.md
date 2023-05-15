@@ -1,14 +1,16 @@
-# Bicycle Landing Page
+# [Bicycle: Лендинг | Landing Page](https://dulatyess.github.io/Bicycle/)
 
-## Preview
+## Предварительный просмотр | Preview
 
 [![Landing Page Preview](https://ltdfoto.ru/images/2023/05/14/IZOBRAZENIE_2023-05-14_114415654.png)](https://startbootstrap.github.io/startbootstrap-landing-page/)
 
-**[View Live](dulatyess.github.io/Bicycle/)**
+<!-- **[View Live](https://dulatyess.github.io/Bicycle/)** -->
 
-## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+## Описание | Description
+
+Лендинг магазина продажи велосипедов. Сделано для порфолио по бесплатному макету. Классы в HTML разметке созданы по методологии БЭМ. Полностью кроссбраузерная адаптивная верстка поддерживающая мобильные устройства с размером от 320 пикселей. Стили написаны с использованием препроцессора sass. При помощи миксинов прописаны адаптивные шрифты меняющие свои размеры в зависимости от размера экрана. 
+
+Landing page for a bike shop. Made for portfolio based on free layout. Classes in HTML markup are created according to the BEM methodology. Fully cross-browser adaptive layout that supports mobile devices with a size of 320 pixels or more. The styles are written using the sass preprocessor. With the help of mixins, adaptive fonts are written that change their size depending on the screen size.
 
 ## Status
 
