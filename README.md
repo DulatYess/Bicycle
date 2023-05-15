@@ -12,7 +12,7 @@
 
 Landing page for a bike shop. Made for portfolio based on free layout. Classes in HTML markup are created according to the BEM methodology. Fully cross-browser adaptive layout that supports mobile devices with a size of 320 pixels or more. The styles are written using the sass preprocessor. With the help of mixins, adaptive fonts are written that change their size depending on the screen size.
 
-## 💻 Технологии | Technologies:
+## 💻 Технологии | Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -22,7 +22,7 @@ Landing page for a bike shop. Made for portfolio based on free layout. Classes i
 </div>
 
 
-## 🛠 Инструменты | Tools:
+## 🛠 Инструменты | Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40" />&nbsp;
