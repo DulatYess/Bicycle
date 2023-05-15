@@ -4,7 +4,11 @@
 
 [![Landing Page Preview](https://ltdfoto.ru/images/2023/05/14/IZOBRAZENIE_2023-05-14_114415654.png)](https://startbootstrap.github.io/startbootstrap-landing-page/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-landing-page/)**
+**[View Live](dulatyess.github.io/Bicycle/)**
+
+## Description
+This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
+All 'visual' data can be easily modified by changing the data.json file.
 
 ## Status
 
